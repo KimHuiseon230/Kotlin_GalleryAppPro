@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    //이미지를 200dp로 가져오겠다.-->
+    <dimen name="imgSize">200dp</dimen>
+</resources>
